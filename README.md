@@ -1,7 +1,7 @@
 #Starter Web Project
 
 This repository is for showing how Git and GitHub work
-Adding description .  Updating for emergency fix after stashing. 
+Adding description .  Making change for multiple stash exmaple.
 
 ## Introduction
 This is example to to show different parts of the Git repos
